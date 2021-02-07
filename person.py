@@ -5,3 +5,7 @@ class Person:
 
     def __str__(self) -> str:
         return f"name: {self.name}"
+    
+    def direccion:
+        pass
+        
